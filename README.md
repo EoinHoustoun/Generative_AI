@@ -1,4 +1,7 @@
-# Neural Style Transfer - Celebrity Comic Book Style Gen AI
+# Neural Style Transfer
+<img src="docs/VGSTYLE.png" width="700"/>
+
+## Celebrity Comic Book Style Gen AI
 
 This project applies Neural Style Transfer with generative AI models to transform a celebrity face (content image) into a comic book illustration style (style image). It demonstrates the blending of modern deep learning techniques with artistic creativity.
 
@@ -23,5 +26,3 @@ This project applies Neural Style Transfer with generative AI models to transfor
 - Save intermediate results to track transformation progress
 - Experimentation with different optimizers and learning rates
 - Easily switch style images to experiment with alternative art styles
-
-<img src="docs/VGSTYLE.png" width="700"/>
