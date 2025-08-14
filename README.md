@@ -23,3 +23,5 @@ This project applies Neural Style Transfer with generative AI models to transfor
 - Save intermediate results to track transformation progress
 - Experimentation with different optimizers and learning rates
 - Easily switch style images to experiment with alternative art styles
+
+<img src="docs/VGSTYLE.png" width="700"/>
